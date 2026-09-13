@@ -1,0 +1,199 @@
+{
+  "ciudades": [
+    {
+      "nombre": "Montevideo",
+      "propiedades": [
+        {
+          "precio": 1290000,
+          "tamano": 342,
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/venta-casa-4-dormitorios-en-carrasco/194212370"
+        },
+        {
+          "precio": 1290000,
+          "tamano": 342,
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/venta-casa-4-dormitorios-en-carrasco/194212370"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/venta-casa-4-dormitorios-en-carrasco/194212370"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/venta-casa-4-dormitorios-en-carrasco/194212370"
+        },
+        {
+          "precio": 185000,
+          "tamano": 154,
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/casablanca-casa-padron-unico-en-prado-norte-amplitud-porte-y-gran-terreno/194140991"
+        },
+        {
+          "precio": 185000,
+          "tamano": 154,
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/casablanca-casa-padron-unico-en-prado-norte-amplitud-porte-y-gran-terreno/194140991"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/casablanca-casa-padron-unico-en-prado-norte-amplitud-porte-y-gran-terreno/194140991"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/casablanca-casa-padron-unico-en-prado-norte-amplitud-porte-y-gran-terreno/194140991"
+        },
+        {
+          "precio": 475000,
+          "tamano": 202,
+          "habitaciones": 5,
+          "link": "https://www.infocasas.com.uy/casa-en-venta-en-pocitos/194188559"
+        },
+        {
+          "precio": 475000,
+          "tamano": 202,
+          "habitaciones": 5,
+          "link": "https://www.infocasas.com.uy/casa-en-venta-en-pocitos/194188559"
+        }
+      ]
+    },
+    {
+      "nombre": "Punta del Este",
+      "propiedades": [
+        {
+          "precio": 2100000,
+          "tamano": 551,
+          "habitaciones": 6,
+          "link": "https://www.infocasas.com.uy/venta-de-mansion-en-el-golf-de-punta-del-este/193589545"
+        },
+        {
+          "precio": 2100000,
+          "tamano": 551,
+          "habitaciones": 6,
+          "link": "https://www.infocasas.com.uy/venta-de-mansion-en-el-golf-de-punta-del-este/193589545"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/venta-de-mansion-en-el-golf-de-punta-del-este/193589545"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/venta-de-mansion-en-el-golf-de-punta-del-este/193589545"
+        },
+        {
+          "precio": 620000,
+          "tamano": 242,
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/casa-en-venta-4-dormitorios-en-punta-del-este/193021094"
+        },
+        {
+          "precio": 620000,
+          "tamano": 242,
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/casa-en-venta-4-dormitorios-en-punta-del-este/193021094"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/casa-en-venta-4-dormitorios-en-punta-del-este/193021094"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/casa-en-venta-4-dormitorios-en-punta-del-este/193021094"
+        },
+        {
+          "precio": 690000,
+          "tamano": 280,
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/casa-en-punta-del-este-moderna/192496768"
+        },
+        {
+          "precio": 690000,
+          "tamano": 280,
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/casa-en-punta-del-este-moderna/192496768"
+        }
+      ]
+    },
+    {
+      "nombre": "Ciudad de la Costa",
+      "propiedades": [
+        {
+          "precio": 275000,
+          "tamano": 111,
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/venta-casa-3-dormitorios-2-ba%C3%B1os-completos-jardin-y-parrillero/194009993"
+        },
+        {
+          "precio": 275000,
+          "tamano": 111,
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/venta-casa-3-dormitorios-2-ba%C3%B1os-completos-jardin-y-parrillero/194009993"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/venta-casa-3-dormitorios-2-ba%C3%B1os-completos-jardin-y-parrillero/194009993"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/venta-casa-3-dormitorios-2-ba%C3%B1os-completos-jardin-y-parrillero/194009993"
+        },
+        {
+          "precio": 189000,
+          "tamano": 65,
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/lagomar-sur-ubicacion-comodidad-y-espacio-para-proyectar/193836916"
+        },
+        {
+          "precio": 189000,
+          "tamano": 65,
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/lagomar-sur-ubicacion-comodidad-y-espacio-para-proyectar/193836916"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/lagomar-sur-ubicacion-comodidad-y-espacio-para-proyectar/193836916"
+        },
+        {
+          "precio": null,
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/lagomar-sur-ubicacion-comodidad-y-espacio-para-proyectar/193836916"
+        },
+        {
+          "precio": 385000,
+          "tamano": 160,
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/exclente-casa-en-colinas-de-carrasco/194031222"
+        },
+        {
+          "precio": 385000,
+          "tamano": 160,
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/exclente-casa-en-colinas-de-carrasco/194031222"
+        }
+      ]
+    }
+  ]
+}
